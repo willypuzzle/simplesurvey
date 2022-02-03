@@ -1,0 +1,85 @@
+{
+  "survey": [
+    {
+      "id": 1,
+      "question": "Which year the man landed on the moon?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "2004",
+          "is_correct": false
+        },{
+          "id": 2,
+          "text": "1968",
+          "is_correct": false
+        },{
+          "id": 3,
+          "text": "1969",
+          "is_correct": true
+        },{
+          "id": 4,
+          "text": "1988",
+          "is_correct": false
+        },{
+          "id": 5,
+          "text": "1945",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Who invented the first computer?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "IBM",
+          "is_correct": false
+        },{
+          "id": 2,
+          "text": "Charles Babbage",
+          "is_correct": true
+        },{
+          "id": 3,
+          "text": "Apple",
+          "is_correct": false
+        },{
+          "id": 4,
+          "text": "Microsoft",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Which year the Hubble telescope was launched?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "1990",
+          "is_correct": true
+        },{
+          "id": 2,
+          "text": "2015",
+          "is_correct": false
+        },{
+          "id": 3,
+          "text": "1989",
+          "is_correct": true
+        },{
+          "id": 4,
+          "text": "1978",
+          "is_correct": false
+        },{
+          "id": 5,
+          "text": "2000",
+          "is_correct": false
+        },{
+          "id": 6,
+          "text": "2001",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
